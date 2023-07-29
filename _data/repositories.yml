@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - taham0
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - taham0/AMS
+  - taham0/FLTestbed
+  - taham0/urdu-ocr-e2e
+  - taham0/mongodb-kubernetes-operator
+  - taham0/topics-research-project
