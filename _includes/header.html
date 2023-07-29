@@ -4,6 +4,8 @@
       <!-- Nav Bar -->
       <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
         <div class="container">
+          <h1 class="sign">M. Taha</h1>
+
           {% if page.permalink != '/' -%}
           <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
             {%- if site.title == "blank" -%}
@@ -44,22 +46,36 @@
               {% endfor %}
 
               <!-- About -->
-              <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
+              <!-- <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/' | relative_url }}">{{ about_title }}
                   {%- if page.permalink == '/' -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
                 </a>
-              </li>
+              </li> -->
               {% if site.blog_nav_title %}
               <!-- Blog -->
-              <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
+              <!-- <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/blog/' | relative_url }}">{{ site.blog_nav_title }}
                   {%- if page.url contains 'blog' -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
                 </a>
-              </li>
+              </li> -->
+              {%- endif %}
+
+              <!-- Social -->
+              {%- if page.social %}
+              <div class="social">
+                <div class="contact-icons">
+                  {% include social.html %}
+                </div>
+
+                <div class="contact-note">
+                  {{ site.contact_note }}
+                </div>
+
+              </div>
               {%- endif %}
 
               <!-- Other pages -->
