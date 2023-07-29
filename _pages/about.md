@@ -63,7 +63,7 @@ During my final year, I also worked under my brilliant mentors [Prof. Tianyin Xu
   <li>
     "Saul Gone" S06E13. <a href="https://www.imdb.com/title/tt3032476/">BCS</a> is a storytelling masterpiece!
   </li>
-  <br>
+  <br><br>
   <img src="/assets/img/bcs.jpg" width="100%" height="100%" class="center">
   <br>
   <li>
