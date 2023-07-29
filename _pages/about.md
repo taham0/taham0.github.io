@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: A computer scientist, researcher, and perpetual student.
+subtitle:
 
 profile:
   align: right
@@ -22,7 +22,7 @@ I am a first-year graduate student at [**Purdue University**](https://www.cs.pur
 
 Previously, I spent four wonderful years as an undergraduate student at **LUMS**. Supervised by remarkable advisors [Prof. Zafar A. Qazi](https://web.lums.edu.pk/~zafar/), [Ihsan A. Qazi](https://www.ihsanqazi.com/), and [Prof. Agha A. Raza](https://aghaaliraza.com/), I worked to create a more inclusive and robust framework for federated learning. Our focus on device participation in developing countries provided valuable insights into system heterogeneity and its impact on federated learning.
 
-During my final year, I also worked under my brilliant mentors [Prof. Tianyin Xu](https://tianyin.github.io/) and [Prof. Owolabi Legunsen](https://www.cs.cornell.edu/~legunsen/) at **UIUC SysNet** on automatic testing for cloud system reliability. This experience deepened my fascination with complex systems, exposing me to real-world failures in heterogeneous hardware and software configurations.
+During my final year, I also worked under my brilliant mentors [Prof. Tianyin Xu](https://tianyin.github.io/) and [Prof. Owolabi Legunsen](https://www.cs.cornell.edu/~legunsen/) at **UIUC SysNet** on automatic testing for cloud system reliability. Through this fascinating experience, I became more aware of the challenges of ensuring reliability and performance in complex systems comprising multiple integrated components.
 
 <hr class="solid">
 
@@ -52,5 +52,24 @@ During my final year, I also worked under my brilliant mentors [Prof. Tianyin Xu
 <h3><b>Misc</b></h3>
 
 <ul>
-  
+  <li>A very helpful <a href="https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf">resource</a> for graduate school applications.</li>
+  <br>
+  <li> More <a href="https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html">resources</a>. A compilation.</li>
+  <br>
+  <li>
+    Mikhail Tal's <a href="https://lichess.org/study/4Z1dTRky/4JM2orUS">magical win</a> against Bobby Fischer. His creative attack genius is inspirational.
+  </li>
+  <br>
+  <li>
+    "Saul Gone" S06E13. <a href="https://www.imdb.com/title/tt3032476/">BCS</a> is a storytelling masterpiece!
+  </li>
+  <br>
+  <img src="/assets/img/bcs.jpg" width="100%" height="100%" class="center">
+  <br>
+  <li>
+    Cover art for one of my favourite songs. Listen <a href="https://www.youtube.com/watch?v=n3JGej1U77Q">here</a>.
+  </li>
+  <br>
+  <img src="/assets/img/bayaan.jpg" width="75%" height="75%" class="center">
+  <br>
 </ul>
