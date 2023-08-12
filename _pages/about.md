@@ -52,9 +52,7 @@ During my final year, I also worked under my brilliant mentors [Prof. Tianyin Xu
 <h3><b>Misc</b></h3>
 
 <ul>
-  <li>A very helpful <a href="https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf">resource</a> for graduate school applications.</li>
-  <br>
-  <li> More <a href="https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html">resources</a>. A compilation.</li>
+  <li>A very helpful <a href="https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf">resource</a> for graduate school applications. More <a href="https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html">resources.</a></li>
   <br>
   <li>
     Mikhail Tal's <a href="https://lichess.org/study/4Z1dTRky/4JM2orUS">magical win</a> against Bobby Fischer. His creative attack genius is inspirational.
