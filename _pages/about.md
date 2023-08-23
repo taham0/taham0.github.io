@@ -29,9 +29,9 @@ During my final year, I also worked under my brilliant mentors [Prof. Tianyin Xu
 <h3><b>Awards</b></h3>
 
 <ul>
-  <li>Graduation with High-Merit (2023)</li>
-  <li>Dean's Honor List (2020-21)</li>
-  <li>Full-Merit Scholarship (2017-19)</li>
+  <li>Graduation with High-Merit</li>
+  <li>Dean's Honor List</li>
+  <li>Full-Merit Scholarship</li>
 </ul>
 
 <hr class="solid">
