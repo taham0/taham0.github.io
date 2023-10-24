@@ -16,9 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a first-year graduate student at [**Purdue University**](https://www.cs.purdue.edu/), deeply interested in the captivating world of computer systems and networks. My research aims to achieve high-streaming analytics by partially offloading computation to programmable network switches.
-
-<!-- , advised by [Prof. Saurabh Bagchi](https://bagchi.github.io/) and [Prof. Vishal Shrivastav](https://web.ics.purdue.edu/~vshriva/) -->
+I a first-year MS CS student at [**Purdue University**](https://www.cs.purdue.edu/), deeply interested in the captivating world of computer systems and software. Currently, I'm engaging in research that aims to achieve high-streaming analytics by partially offloading computation to programmable network switches.
 
 Previously, I spent four wonderful years as an undergraduate student at **LUMS**. Supervised by remarkable advisors [Prof. Zafar A. Qazi](https://web.lums.edu.pk/~zafar/), [Ihsan A. Qazi](https://www.ihsanqazi.com/), and [Prof. Agha A. Raza](https://aghaaliraza.com/), I worked to create a more inclusive and robust framework for federated learning. Our focus on device participation in developing countries provided valuable insights into system heterogeneity and its impact on federated learning.
 
